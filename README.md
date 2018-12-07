@@ -9,8 +9,29 @@ focus in this project.
 We hope that you find our work meaningful, please reach out to us if you have any questions!
 
 Contacts:
-- rohansuresh@berkeley.edu
-- karthikrbabu@berkeley.edu
+  Yoon Sung Hong:
+  yoonsung.h@berkeley.edu
+  B.A Statistics 
+
+  Karam Mukhtar:
+  karammukhtar@berkeley.edu
+  B.A, Applied Mathematics
+
+  Dilshan Pathirana:
+  dpathirana@berkeley.edu
+  B.S, Computer Science Engineering (EECS)
+
+  Shyamkarthik Rameshbabu:
+  karthikrbabu@berkeley.edu
+  B.S, Computer Science Engineering (EECS)
+
+  Rohan Suresh:
+  rohansuresh@berkeley.edu
+  B.S, Computer Science Engineering (EECS)
+
+  Jeffrey Wirjo:
+  jwirjo@berkeley.edu
+  B.S, Computer Science Engineering (EECS)
 
 
 
